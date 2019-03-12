@@ -1,0 +1,9 @@
+#!/bin/sh
+
+tr ' ' '\n' < file.txt| sort|uniq -c|sort | tac
+
+
+#!/bin/sh
+
+tr ' ' '\n' | sort|uniq -c|sort | tac
+

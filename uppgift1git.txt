@@ -1,0 +1,78 @@
+commit 39ccbd5341b0938d21f51774d622a6722ef93f2f (HEAD -> master, origin/master, origin/HEAD)
+Author: oj <oj.lappi@gmail.com>
+Date:   Tue Mar 12 08:48:47 2019 +0200
+
+    lektion6 skriven
+
+commit 10b3b0fe007fed6b59bbe7bc3d986dbb42f7be49
+Author: oj <oj.lappi@gmail.com>
+Date:   Mon Mar 11 13:17:32 2019 +0200
+
+    Uppdaterade lektion5
+
+commit c851e052541cba72bdcc44de67b6f3ae17f1407a
+Author: oj <oj.lappi@gmail.com>
+Date:   Mon Mar 4 10:42:45 2019 +0200
+
+    Markdown fix
+
+commit 83abdd40dd0591491922dc98ff88268c3ccf398a
+Author: oj <oj.lappi@gmail.com>
+Date:   Mon Mar 4 10:40:56 2019 +0200
+
+    Markdown fix
+
+commit 84e8a878aa2ff95eee62ebce31acd3aa4bc4708a
+Author: oj <oj.lappi@gmail.com>
+Date:   Mon Mar 4 10:38:24 2019 +0200
+
+    Markdown fix
+
+commit 181463083db48deb2d821ee829001b4324004157
+Author: oj <oj.lappi@gmail.com>
+Date:   Mon Mar 4 10:35:32 2019 +0200
+
+    Markdown fix
+
+commit e5ea057e00c789e6da230f56051b3a91ee8c7a59
+Author: oj <oj.lappi@gmail.com>
+Date:   Mon Mar 4 10:34:33 2019 +0200
+
+    Markdown version
+
+commit e4fa585d670ce4903e16747af61e76a83d564101
+Author: oj <oj.lappi@gmail.com>
+Date:   Mon Mar 4 10:33:30 2019 +0200
+
+    markdown version
+
+commit 158fde1c3f23e0d26cf420b0a1bb4a24701545ee
+Author: oj <oj.lappi@gmail.com>
+Date:   Sun Mar 3 23:54:51 2019 +0200
+
+    Lektion 5: script
+
+commit 68e36231743d24d0c8e02a3f1d02bc5cc791cb83
+Author: oj <oj.lappi@gmail.com>
+Date:   Sun Feb 24 22:17:23 2019 +0200
+
+    Fixade fel i lektion4 förra uppgiften -> exemplet för mount
+
+commit bab0f71a991d915b06ed4a81260d1d1ddaa31c27
+Author: oj <oj.lappi@gmail.com>
+Date:   Sun Feb 24 21:56:00 2019 +0200
+
+    Finslip på lektion 4
+
+commit e5ab32e367441c77727b0117c7382c8150d95e88
+Author: oj <oj.lappi@gmail.com>
+Date:   Sun Feb 24 21:38:06 2019 +0200
+
+    Små ändringar
+
+commit c4642235498b88c13b5cbe38f570eab339f88400
+Author: oj <oj.lappi@gmail.com>
+Date:   Sun Feb 24 21:15:59 2019 +0200
+
+    Skrev lektion 4, skapade git repo
+
